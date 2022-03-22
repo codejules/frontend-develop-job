@@ -18,6 +18,7 @@ Se da total libertar a las tecnologías y frameworks utilizados.
 - Visual Studio Code
 - Metodología BEM para el desarrollo del HTML
 - Framework TailwindCSS, haciendo uso de CSS Flex y CSS Grid
+- Carruseles OWL Carousel y por CSS
 - Javascript para Toggle
 - CSS Custom Properties (variables)
 - Google Fonts
