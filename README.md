@@ -21,7 +21,7 @@ Se da total libertar a las tecnologías y frameworks utilizados.
 - Javascript para Toggle
 - CSS Custom Properties (variables)
 - Google Fonts
-- Librería Heroicons (svg) para iconos
+- Librería Heroicons (svg) para iconos (https://heroicons.com/)
 - Banco de imágenes Picsum Photos (https://picsum.photos)
 - Texto (https://www.lipsum.com)
 - Mobile First Responsive (mediante framework TailwindCSS)
