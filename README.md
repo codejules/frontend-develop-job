@@ -26,3 +26,8 @@ Se da total libertar a las tecnologías y frameworks utilizados.
 - Banco de imágenes Picsum Photos (https://picsum.photos)
 - Texto (https://www.lipsum.com)
 - Mobile First Responsive (mediante framework TailwindCSS)
+
+
+## Mejoras a implementar
+
+- Hamburguer responsive menú
